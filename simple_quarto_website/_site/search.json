@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget arcu lacus. Cras eu velit diam. Phasellus tristique rhoncus accumsan. In venenatis mi vel purus efficitur vehicula. Vivamus lorem risus, scelerisque vel accumsan eget, tempor vel quam. Nulla eget aliquam erat, ac maximus orci. Integer suscipit dui non augue egestas rutrum. Donec dolor sapien, congue quis ultricies et, lacinia in nisi. Proin pulvinar odio vel ex eleifend venenatis. Vivamus eu aliquam magna, quis dictum magna. Cras euismod hendrerit ex non sollicitudin. Vivamus non tincidunt neque.\n\n\n\n\nQuisque vitae purus mauris.\nDonec porttitor, arcu non venenatis egestas, lectus neque consequat nunc, quis suscipit risus lorem faucibus lorem.\nNam rhoncus elit nec elit posuere, sed aliquet tellus finibus. Duis sapien arcu, egestas dignissim nunc ut, volutpat imperdiet lacus.\nAenean sit amet ultricies dui.\n\n\n\n\n\n\n\nVestibulum luctus semper lacus, id lobortis massa accumsan eu. Sed et elit ut nisl auctor vulputate id eget massa. Nunc mattis egestas tellus a ornare. Mauris at facilisis est. Aenean ut quam felis. Phasellus purus diam, rhoncus sit amet erat in, aliquet porttitor neque. Fusce ipsum est, tincidunt at laoreet at, tempor vel orci. Fusce nulla leo, laoreet sit amet massa nec, vulputate congue felis. Aenean tempus odio nec hendrerit iaculis. Fusce sodales tempor nibh sit amet finibus. Donec quis sem et velit ultrices tincidunt. Curabitur urna justo, sodales nec sagittis vel, laoreet sit amet quam. Quisque quis cursus massa. Etiam a leo id nunc dictum finibus eget nec nisi. Curabitur quis elementum arcu. Etiam bibendum ut justo sit amet pretium.\n\n\nPellentesque ac orci eget eros consequat imperdiet. Suspendisse lectus mauris, fringilla non turpis scelerisque, lacinia scelerisque metus. Sed ultricies elit eu dapibus sodales. Curabitur at luctus diam. Cras efficitur, metus sit amet malesuada tempor, sapien mi vehicula libero, quis vulputate neque ex euismod felis. Mauris dapibus, dui mollis hendrerit laoreet, magna mauris congue dolor, quis feugiat enim dui sit amet tellus. Aliquam suscipit lectus pulvinar neque euismod malesuada.\n\n\n\n\n\n\n\n\n\n\n\n\n\\(x\\)\n\\(x^2\\)\n\\(x^3\\)\n\\(x^2 + x\\)\n\n\n\n\n2\n4\n8\n6\n\n\n5\n25\n125\n30\n\n\n10\n100\n1000\n110\n\n\n\n\n\nBayes’ Theorem: \\(P(A|B) = \\frac{P(A \\cap B)}{P(B)}\\)\n\n\n\nQuadratic Formula: \\[x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}\\]\n\n\n\n\nNunc condimentum felis ac viverra efficitur. Vivamus hendrerit posuere justo eu lacinia. Maecenas nec mi dapibus, varius felis vel, tempus ligula. Etiam molestie convallis tincidunt. Morbi sit amet ex at urna vulputate ornare id sed massa. Mauris eget finibus lorem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce condimentum condimentum risus, ac pretium lectus pharetra at.1\n\n\n\n\n\n\n\nPicture I took of the Roberto Clemente Bridge in Pittsburgh this summer: \nPicture I took of downtown Nashville this summer: \n\n\n\nVideo I took of 4th of July fireworks in Washington, DC: DC Fireworks\n\n\n\n\n\n\n\nflowchart LR\n  A[72] --&gt; B(3)\n  A --&gt; C(24)\n  C --&gt; D{2}\n  C --&gt; E{12}\n  E --&gt; F[3]\n  E --&gt; G[4]\n  G --&gt; H(2)\n  G --&gt; I(2)\n\n\nMermaid diagram of the prime factorization of 72.\n\n\n\n\n\n(Dhar 2013)\n(Wickham, Çetinkaya-Rundel, and Grolemund 2023)"
+  },
+  {
+    "objectID": "index.html#sample-bullets",
+    "href": "index.html#sample-bullets",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Quisque vitae purus mauris.\nDonec porttitor, arcu non venenatis egestas, lectus neque consequat nunc, quis suscipit risus lorem faucibus lorem.\nNam rhoncus elit nec elit posuere, sed aliquet tellus finibus. Duis sapien arcu, egestas dignissim nunc ut, volutpat imperdiet lacus.\nAenean sit amet ultricies dui.\n\n\n\n\n\n\n\nVestibulum luctus semper lacus, id lobortis massa accumsan eu. Sed et elit ut nisl auctor vulputate id eget massa. Nunc mattis egestas tellus a ornare. Mauris at facilisis est. Aenean ut quam felis. Phasellus purus diam, rhoncus sit amet erat in, aliquet porttitor neque. Fusce ipsum est, tincidunt at laoreet at, tempor vel orci. Fusce nulla leo, laoreet sit amet massa nec, vulputate congue felis. Aenean tempus odio nec hendrerit iaculis. Fusce sodales tempor nibh sit amet finibus. Donec quis sem et velit ultrices tincidunt. Curabitur urna justo, sodales nec sagittis vel, laoreet sit amet quam. Quisque quis cursus massa. Etiam a leo id nunc dictum finibus eget nec nisi. Curabitur quis elementum arcu. Etiam bibendum ut justo sit amet pretium.\n\n\nPellentesque ac orci eget eros consequat imperdiet. Suspendisse lectus mauris, fringilla non turpis scelerisque, lacinia scelerisque metus. Sed ultricies elit eu dapibus sodales. Curabitur at luctus diam. Cras efficitur, metus sit amet malesuada tempor, sapien mi vehicula libero, quis vulputate neque ex euismod felis. Mauris dapibus, dui mollis hendrerit laoreet, magna mauris congue dolor, quis feugiat enim dui sit amet tellus. Aliquam suscipit lectus pulvinar neque euismod malesuada.\n\n\n\n\n\n\n\n\n\n\n\n\n\\(x\\)\n\\(x^2\\)\n\\(x^3\\)\n\\(x^2 + x\\)\n\n\n\n\n2\n4\n8\n6\n\n\n5\n25\n125\n30\n\n\n10\n100\n1000\n110\n\n\n\n\n\nBayes’ Theorem: \\(P(A|B) = \\frac{P(A \\cap B)}{P(B)}\\)\n\n\n\nQuadratic Formula: \\[x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}\\]\n\n\n\n\nNunc condimentum felis ac viverra efficitur. Vivamus hendrerit posuere justo eu lacinia. Maecenas nec mi dapibus, varius felis vel, tempus ligula. Etiam molestie convallis tincidunt. Morbi sit amet ex at urna vulputate ornare id sed massa. Mauris eget finibus lorem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce condimentum condimentum risus, ac pretium lectus pharetra at.1\n\n\n\n\n\n\n\nPicture I took of the Roberto Clemente Bridge in Pittsburgh this summer: \nPicture I took of downtown Nashville this summer: \n\n\n\nVideo I took of 4th of July fireworks in Washington, DC: DC Fireworks\n\n\n\n\n\n\n\nflowchart LR\n  A[72] --&gt; B(3)\n  A --&gt; C(24)\n  C --&gt; D{2}\n  C --&gt; E{12}\n  E --&gt; F[3]\n  E --&gt; G[4]\n  G --&gt; H(2)\n  G --&gt; I(2)\n\n\nMermaid diagram of the prime factorization of 72.\n\n\n\n\n\n(Dhar 2013)\n(Wickham, Çetinkaya-Rundel, and Grolemund 2023)"
+  },
+  {
+    "objectID": "index.html#sample-inline-latex-equation",
+    "href": "index.html#sample-inline-latex-equation",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Bayes’ Theorem: \\(P(A|B) = \\frac{P(A \\cap B)}{P(B)}\\)"
+  },
+  {
+    "objectID": "index.html#sample-non-inline-latex-equation",
+    "href": "index.html#sample-non-inline-latex-equation",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Quadratic Formula: \\[x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}\\]"
+  },
+  {
+    "objectID": "index.html#sample-quote",
+    "href": "index.html#sample-quote",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Nunc condimentum felis ac viverra efficitur. Vivamus hendrerit posuere justo eu lacinia. Maecenas nec mi dapibus, varius felis vel, tempus ligula. Etiam molestie convallis tincidunt. Morbi sit amet ex at urna vulputate ornare id sed massa. Mauris eget finibus lorem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce condimentum condimentum risus, ac pretium lectus pharetra at.1"
+  },
+  {
+    "objectID": "index.html#embedded-images",
+    "href": "index.html#embedded-images",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Picture I took of the Roberto Clemente Bridge in Pittsburgh this summer: \nPicture I took of downtown Nashville this summer:"
+  },
+  {
+    "objectID": "index.html#embedded-video",
+    "href": "index.html#embedded-video",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Video I took of 4th of July fireworks in Washington, DC: DC Fireworks"
+  },
+  {
+    "objectID": "index.html#mermaid-diagram",
+    "href": "index.html#mermaid-diagram",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "flowchart LR\n  A[72] --&gt; B(3)\n  A --&gt; C(24)\n  C --&gt; D{2}\n  C --&gt; E{12}\n  E --&gt; F[3]\n  E --&gt; G[4]\n  G --&gt; H(2)\n  G --&gt; I(2)\n\n\nMermaid diagram of the prime factorization of 72.\n\n\n\n\n\n(Dhar 2013)\n(Wickham, Çetinkaya-Rundel, and Grolemund 2023)"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nLorem ipsum text generated at https://www.lipsum.com/feed/html↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#image-1",
+    "href": "slides/slides.html#image-1",
+    "title": "Slides",
+    "section": "Image 1",
+    "text": "Image 1\n\nPhillies Game"
+  },
+  {
+    "objectID": "slides/slides.html#image-2",
+    "href": "slides/slides.html#image-2",
+    "title": "Slides",
+    "section": "Image 2",
+    "text": "Image 2\n\nOrioles Game"
+  },
+  {
+    "objectID": "slides/slides.html#python-cell",
+    "href": "slides/slides.html#python-cell",
+    "title": "Slides",
+    "section": "Python Cell",
+    "text": "Python Cell\n\n\nShow code\nimport numpy as np\nimport matplotlib.pyplot as plt\nx = [1,2,3,4,5,6,7,8,9,10]\ny = [1,4,9,16,25,36,49,64,81,100]\nplt.scatter(x,y, color='#68A2B9')\nplt.xlabel(\"X\")\nplt.ylabel(\"X-squared\")\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#references",
+    "href": "slides/slides.html#references",
+    "title": "Slides",
+    "section": "References",
+    "text": "References\n(Dhar 2013) (Wickham, Çetinkaya-Rundel, and Grolemund 2023)\n\n\n\n\n\n\nDhar, Vasant. 2013. “Data Science and Prediction.” Communications of the ACM 56 (12): 64–73.\n\n\nWickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund. 2023. R for Data Science. \" O’Reilly Media, Inc.\"."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#chapter-1.1",
+    "href": "about.html#chapter-1.1",
+    "title": "About",
+    "section": "Chapter 1.1",
+    "text": "Chapter 1.1\nMorbi in rutrum tortor. Vestibulum sollicitudin finibus finibus. Curabitur eleifend elit velit, vitae pellentesque lectus tincidunt at. Cras nisl sem, porta eu tortor finibus, rutrum auctor diam. Nulla ut ex erat. Duis eu feugiat lacus. Curabitur vel vulputate leo.\n\nChapter 1.1.1\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nx = [1,2,3,4,5,6,7,8,9,10]\ny = [1,4,9,16,25,36,49,64,81,100]\nplt.scatter(x,y, color='#68A2B9')\nplt.xlabel(\"X\")\nplt.ylabel(\"X-squared\")\nplt.show()"
+  }
+]
