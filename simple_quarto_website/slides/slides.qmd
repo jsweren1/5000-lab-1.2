@@ -1,0 +1,47 @@
+---
+title: Slides
+author: Josh Sweren
+jupyter: python3
+format: 
+  revealjs:
+    slide-number: true
+    echo: true
+    eval: true
+    code-fold: true
+    code-summary: "Show code"
+    embed-resources: true
+bibliography: ../reference.bib
+---
+
+## Image 1
+
+![Phillies Game](images/phillies.png)
+
+## Image 2
+
+![Orioles Game](images/orioles.png)
+
+## Python Cell
+
+```{python}
+#| echo: true
+#| code-fold: true
+#| code-summary: "Show code"
+#| eval: true
+#| embed-resources: true
+
+import numpy as np
+import matplotlib.pyplot as plt
+x = [1,2,3,4,5,6,7,8,9,10]
+y = [1,4,9,16,25,36,49,64,81,100]
+plt.scatter(x,y, color='#68A2B9')
+plt.xlabel("X")
+plt.ylabel("X-squared")
+plt.show()
+```
+
+## References
+
+[@dhar2013data]
+[@wickham2023r]
+

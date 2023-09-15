@@ -1,0 +1,76 @@
+---
+title: "simple_quarto_website"
+toc: true
+toc-depth: 4
+toc-title: Table of Contents
+bibliography: reference.bib
+---
+# 1. Sample Paragraph
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget arcu lacus. Cras eu velit diam. Phasellus tristique rhoncus accumsan. In venenatis mi vel purus efficitur vehicula. Vivamus lorem risus, scelerisque vel accumsan eget, tempor vel quam. Nulla eget aliquam erat, ac maximus orci. Integer suscipit dui non augue egestas rutrum. Donec dolor sapien, congue quis ultricies et, lacinia in nisi. Proin pulvinar odio vel ex eleifend venenatis. Vivamus eu aliquam magna, quis dictum magna. Cras euismod hendrerit ex non sollicitudin. Vivamus non tincidunt neque. </p>
+## 1.1. Sample Bullets
+* Quisque vitae purus mauris.
+* Donec porttitor, arcu non venenatis egestas, lectus neque consequat nunc, quis suscipit risus lorem faucibus lorem.
+* Nam rhoncus elit nec elit posuere, sed aliquet tellus finibus. Duis sapien arcu, egestas dignissim nunc ut, volutpat imperdiet lacus.
+* Aenean sit amet ultricies dui.
+  
+### 1.1.1. Sample Columns
+<table>
+    <tr width=100%; valign=top>
+        <td width=50%;>Vestibulum luctus semper lacus, id lobortis massa accumsan eu. Sed et elit ut nisl auctor vulputate id eget massa. Nunc mattis egestas tellus a ornare. Mauris at facilisis est. Aenean ut quam felis. Phasellus purus diam, rhoncus sit amet erat in, aliquet porttitor neque. Fusce ipsum est, tincidunt at laoreet at, tempor vel orci. Fusce nulla leo, laoreet sit amet massa nec, vulputate congue felis. Aenean tempus odio nec hendrerit iaculis. Fusce sodales tempor nibh sit amet finibus. Donec quis sem et velit ultrices tincidunt. Curabitur urna justo, sodales nec sagittis vel, laoreet sit amet quam. Quisque quis cursus massa. Etiam a leo id nunc dictum finibus eget nec nisi. Curabitur quis elementum arcu. Etiam bibendum ut justo sit amet pretium.</td>
+    <td width=50%;>
+        Pellentesque ac orci eget eros consequat imperdiet. Suspendisse lectus mauris, fringilla non turpis scelerisque, lacinia scelerisque metus. Sed ultricies elit eu dapibus sodales. Curabitur at luctus diam. Cras efficitur, metus sit amet malesuada tempor, sapien mi vehicula libero, quis vulputate neque ex euismod felis. Mauris dapibus, dui mollis hendrerit laoreet, magna mauris congue dolor, quis feugiat enim dui sit amet tellus. Aliquam suscipit lectus pulvinar neque euismod malesuada.</td>
+    </tr>
+<table>
+
+# 2. Sample Markdown Table
+| $x$ | $x^2$ | $x^3$ | $x^2 + x$ |
+|-----|-----|-----|-----|
+| 2 | 4 | 8 | 6 |
+| 5 | 25 | 125 | 30 |
+| 10| 100 | 1000 | 110|
+
+## 2.1. Sample Inline LaTeX Equation
+Bayes' Theorem: $P(A|B) = \frac{P(A \cap B)}{P(B)}$
+
+## 2.2. Sample Non-Inline LaTeX Equation
+Quadratic Formula:
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+## 2.3. Sample Quote
+>Nunc condimentum felis ac viverra efficitur. Vivamus hendrerit posuere justo eu lacinia. Maecenas nec mi dapibus, varius felis vel, tempus ligula. Etiam molestie convallis tincidunt. Morbi sit amet ex at urna vulputate ornare id sed massa. Mauris eget finibus lorem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce condimentum condimentum risus, ac pretium lectus pharetra at.[^1]
+
+# 3. Embedded Media
+
+## 3.1. Embedded Images
+Picture I took of the Roberto Clemente Bridge in Pittsburgh this summer:
+![Clemente Bridge](images/clemente_bridge.png)
+
+Picture I took of downtown Nashville this summer:
+![Downtown Nashville](images/nashville.png)
+
+## 3.2. Embedded Video
+Video I took of 4th of July fireworks in Washington, DC:
+![DC Fireworks](images/fireworks.MOV)
+
+## 3.3. Mermaid Diagram
+
+```{mermaid}
+%%| fig-cap: "Mermaid diagram of the prime factorization of 72."
+%%| code-fold: false
+flowchart LR
+  A[72] --> B(3)
+  A --> C(24)
+  C --> D{2}
+  C --> E{12}
+  E --> F[3]
+  E --> G[4]
+  G --> H(2)
+  G --> I(2)
+```
+
+### 3.3.1. References to `.bib` File
+[@dhar2013data]
+
+[@wickham2023r]
+
+[^1]: Lorem ipsum text generated at <a href="https://www.lipsum.com/feed/html">https://www.lipsum.com/feed/html</a>
