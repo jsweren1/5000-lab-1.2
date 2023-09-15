@@ -1,0 +1,11 @@
+{
+  "hash": "f8e32ef3108317c35855133637d4b94d",
+  "result": {
+    "markdown": "---\ntitle: About\n---\n\nAbout this site\n\n# Chapter 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras finibus ac erat maximus rutrum. Suspendisse in tellus tempor, efficitur urna non, elementum justo. Nulla turpis odio, mollis quis tristique quis, scelerisque non arcu. Nullam vitae lectus auctor, efficitur ex vitae, aliquam nunc. Aenean augue nibh, cursus non facilisis ut, pulvinar ac metus. Nullam varius vestibulum malesuada. Mauris ornare est eu tortor malesuada volutpat. Duis vitae tincidunt orci. Nunc eget ante ornare, mollis orci ut, rhoncus tellus. Ut quis tortor pharetra, ultrices massa et, rhoncus lorem. Fusce aliquam lacus quis purus mollis, ac aliquet ante dignissim. Integer pretium feugiat neque, maximus imperdiet nisl condimentum quis. Nulla porta est neque, at finibus nulla scelerisque in. Vestibulum nec risus diam. Donec commodo turpis vehicula quam ultricies, a tempor ex tempus. Aliquam erat volutpat.\n\n## Chapter 1.1\nMorbi in rutrum tortor. Vestibulum sollicitudin finibus finibus. Curabitur eleifend elit velit, vitae pellentesque lectus tincidunt at. Cras nisl sem, porta eu tortor finibus, rutrum auctor diam. Nulla ut ex erat. Duis eu feugiat lacus. Curabitur vel vulputate leo.\n\n### Chapter 1.1.1\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\nimport matplotlib.pyplot as plt\nx = [1,2,3,4,5,6,7,8,9,10]\ny = [1,4,9,16,25,36,49,64,81,100]\nplt.scatter(x,y)\nplt.show()\n```\n\n::: {.cell-output .cell-output-display}\n![](about_files/figure-html/cell-2-output-1.png){width=575 height=411}\n:::\n:::\n\n\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

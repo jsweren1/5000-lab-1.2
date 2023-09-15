@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "ce26bdc5"
+  },
+  "about.qmd": {
+    "about.html": "2103a7df"
+  },
+  "slides/slides.ipynb": {
+    "slides.html": "f12d0cb7"
+  },
+  "slides/slides.qmd": {
+    "slides.html": "54ab0746"
+  },
+  "about.ipynb": {
+    "about.html": "9c69df41"
+  }
+}
